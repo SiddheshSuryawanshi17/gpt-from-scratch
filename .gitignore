@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/*.bin
+checkpoints/*.pt
+checkpoints/train_stdout.txt
+.gradio/
